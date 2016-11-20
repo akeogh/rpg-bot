@@ -1,0 +1,14 @@
+{
+  "name": "rpg-bot",
+  "version": "1.0.0",
+  "description": "A Slack bot to assist with managing tabletop RPGs.",
+  "main": "lib/rpgbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanda Keogh",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.3"
+  }
+}
